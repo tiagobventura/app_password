@@ -1,2 +1,2 @@
-# app_password
-Aplicativo de Senhas
+# App Password
+Aplicativo de gerenciamento de senhas
